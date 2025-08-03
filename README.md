@@ -186,6 +186,5 @@ Project Link: [Vercel Link](https://v0-weatherapp-beta.vercel.app/)
 <div align="center">
   <h3>Made with ❤️ by Antra Gupta</h3>
   
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/kousik1314)
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/weather-checker?style=social)](https://v0-weatherapp-beta.vercel.app/)
+
 </div>
