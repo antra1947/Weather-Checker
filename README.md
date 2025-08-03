@@ -186,5 +186,4 @@ Project Link: [Vercel Link](https://v0-weatherapp-beta.vercel.app/)
 <div align="center">
   <h3>Made with ❤️ by Antra Gupta</h3>
   
-
 </div>
